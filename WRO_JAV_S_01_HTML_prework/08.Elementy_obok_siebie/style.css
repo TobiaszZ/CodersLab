@@ -1,0 +1,11 @@
+#jeden {
+	background-color: green; width: 50px; height: 50px; position: absolute; left: 50px; }
+#dwa { 
+	background-color: black; width: 50px; height: 50px; position: absolute; right: 50px; }
+#trzy {
+	border: 1px black; width: 55px; height: 55px; position: absolute; left: 628px; border-style: dashed; }
+#cztery {
+	border: 1px black; width: 55px; height: 55px; position: absolute; right: 628px; border-style: dashed; }
+#tekst {
+	border-style: dashed; color: grey; position: absolute; top: 100px; }
+	

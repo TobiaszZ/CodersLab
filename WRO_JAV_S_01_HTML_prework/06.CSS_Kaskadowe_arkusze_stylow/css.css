@@ -1,0 +1,7 @@
+body {
+background-color:rgb(0, 0, 250);
+}
+#jeden { color: green;}
+#dwa {color: purple;} 
+.klasa {color: brown;}
+.block {border: 1px solid black;}

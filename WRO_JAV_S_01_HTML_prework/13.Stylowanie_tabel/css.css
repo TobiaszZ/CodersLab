@@ -1,0 +1,6 @@
+#wiersz1 {
+	background-color : navy ; color: white ; font-weight: 700 ; }
+/*#tabela { 
+	border-collapse: separate; border-spacing: 10px } */ - /* każda komórka tabeli ma własny border */ 
+#tabela { 
+	border-collapse: collapse;  }

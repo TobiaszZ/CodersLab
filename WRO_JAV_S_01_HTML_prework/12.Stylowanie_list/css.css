@@ -1,0 +1,7 @@
+#ul { 
+	list-style-type: square ;}
+#menu li {
+	display: inline;  padding: 5px; }
+#menu a {
+	color: #666;text-decoration: none; }
+	
